@@ -138,6 +138,6 @@ function hello(function(a,b)=>{
 10. Explain what is callback function. Why you can pass a function inside a function?
 ```js
 function mul((a,b)=>a*b);
+```
 
 //here mul is higher order function and inside that one expression is there that is call back function which  is performing multiplication so that is called callback function.
-```

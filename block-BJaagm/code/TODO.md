@@ -1,6 +1,6 @@
 1. What does thread of execution means in JavaScript?
 
-Whenever we execute a peiece of code , javaScript engine will execute the code the line by line that is also know as thread of execution.
+Whenever we execute a peiece of code , javaScript engine will execute the code the line by line that is also know as thread of execution
 
 2. Where the JavaScript code gets executed?
 
@@ -8,7 +8,7 @@ JavaScript code gets executed in JS engine
 
 3. What does context means in Global Execution Context?
 
-Whenever we run a program javaScript engine will create global execution context under that everyhting or all part of code will get executed.
+Whenever we run a program javaScript engine will create global execution context under that everyhting or all part of code will get executed
 
 4. When do you create a global execution context.
 
@@ -16,20 +16,20 @@ When Any program or piece of code get executed
 
 5. Execution context consists of what all things?
 
-execution context consists global and function execution context. it has two part one memory area second one is execution area.
+execution context consists global and function execution context. it has two part one memory area second one is execution area
 
 6. What are the different types of execution context?
 
-There are two type of execution context. GEC,FEC
+There are two type of execution context they are GEC,FEC
 
 
 7. When global and function execution context gets created?
 
-When a piece of code get started the execution.
+When a piece of code get started the execution
 
 8. Function execution gets created during function execution or while declaring a function.
 
-Function execution gets created during function execution .
+Function execution gets created during function execution 
 
 
 9. Create a execution context diagram of the following code on your notebook. Take a screenshot/photo and store it in the folder named `img`. Use `![](./img/image-name.png)` to display it here.

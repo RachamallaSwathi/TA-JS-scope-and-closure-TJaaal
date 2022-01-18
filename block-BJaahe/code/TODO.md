@@ -32,6 +32,7 @@ function delay(cb,waitTime){
 delay(()=>{
   alert('swathi');
 },2);
+
 ```
 
 3. Write a function with a closure. The first function should only take one argument, someone's last name, and return the inner function. The returned `inner` function should take one more argument, someone's first name. When inner function when called it should console.log both the first name and the last name with a space.
@@ -73,10 +74,7 @@ function storyWriter() {
       story="";
       return story;
      }
-
-
-
-
+     
    }
   
 }
